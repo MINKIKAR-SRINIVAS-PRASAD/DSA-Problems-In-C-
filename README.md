@@ -1,4 +1,4 @@
-# DSA-Problems-In-C-
+# DSA-Problems-In-C++
 
 To learn DSA C++ Go through the mentioned comits (written problem numbers) and get perfect
 
